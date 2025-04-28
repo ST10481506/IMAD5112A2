@@ -1,0 +1,6 @@
+package com.example.flashcard
+import java.io.Serializable
+data class Question(
+    val text: String,
+    val answer: Boolean
+) : Serializable

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FlashCard</string>
+    <string name="welcome_message">Welcome To Your Quiz</string>
+    <string name="start">Start</string>
+    <string name="true_lab">True</string>
+    <string name="false_lab">False</string>
+    <string name="next">Next</string>
+    <string name="review">Review</string>
+    <string name="exit">Finished</string>
+    <string name="feedback_correct">Correct!</string>
+    <string name="feedback_incorrect">Incorrect!</string>
+    <string name="feedback_high">Well Done!</string>
+    <string name="feedback_low">Keep Practicing!</string>
+</resources>
